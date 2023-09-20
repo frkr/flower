@@ -1,0 +1,15 @@
+name = "portal"
+main = "dist/worker.js"
+compatibility_date = "2023-09-14"
+workers_dev = true
+
+[build]
+command = "npx webpack --progress"
+
+# Bind another Worker service. Use this binding to call another Worker without network overhead.
+# Docs: https://developers.cloudflare.com/workers/platform/services
+# [[services]]
+# binding = "MY_SERVICE"
+# service = "/api/*"
+
+
