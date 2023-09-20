@@ -17,3 +17,8 @@ npm run pack
 - Gerar um PDF com a documentação
 - Documentação navegável
 - Importar outros repositórios se possivel
+
+
+### Links:
+https://developers.cloudflare.com/workers/wrangler/environments/
+https://github.com/serverless/serverless#quick-start
