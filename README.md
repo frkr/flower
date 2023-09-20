@@ -22,3 +22,23 @@ npm run pack
 ### Links:
 https://developers.cloudflare.com/workers/wrangler/environments/
 https://github.com/serverless/serverless#quick-start
+
+## PORTAL
+- Acesso ao aplicativo, mostrar status das aplicações.
+- Se ouver expiração de software, exibir data.
+- Abrir abas dos aplicativos.
+- Se ouver sub-aplicativos mostrar em abas também.
+- Usar WebSockets.
+
+# FLOWER - anotações do papel
+
+- FLOWER - PERT - GANTT - Japones - Homem a Lua
+- Tempo
+- SLA
+- Inbox
+- Suporte
+- Garantia
+- Review Audit
+- Drools / Serverless
+
+
