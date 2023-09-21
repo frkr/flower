@@ -4,7 +4,7 @@
 export class Teste {
 
 	async index() {
-		return new Response('Hello World!', { status: 200 });
+		return new Response('Hello Julio!', { status: 200 });
 	}
 
 }

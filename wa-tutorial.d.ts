@@ -1,4 +1,4 @@
 interface Env {
-
+    DAVI: string;
 }
 

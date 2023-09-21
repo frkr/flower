@@ -1,4 +1,4 @@
-name = "flower"
+name = "wa-tutorial"
 main = "dist/worker.js"
 compatibility_date = "2023-09-14"
 workers_dev = true
@@ -12,4 +12,11 @@ command = "npx webpack --progress"
 # binding = "MY_SERVICE"
 # service = "/api/*"
 
+
+###################################################################
+### Alterar a partir daqui
+###################################################################
+
+[vars]
+DAVI="TESTE OIIII"
 
