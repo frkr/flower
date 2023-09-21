@@ -5,14 +5,14 @@
   "main": "dist/worker.js",
   "scripts": {
     "pack": "webpack --progress",
-    "enviar": "wrangler deploy",
+    "deploy": "wrangler deploy",
     "dev": "wrangler dev",
     "log": "wrangler tail"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.x.x",
-    "remark-loader": "5.0.x",
-    "ts-loader": "9.4.x",
+    "remark-loader": "5.x.x",
+    "ts-loader": "9.x.x",
     "webpack": "5.x.x",
     "webpack-cli": "4.x.x",
     "wrangler": "3.x.x"
