@@ -15,6 +15,6 @@
     "ts-loader": "9.4.x",
     "webpack": "5.76.x",
     "webpack-cli": "4.10.x",
-    "wrangler": "3.6.x"
+    "wrangler": "3.9.x"
   }
 }
