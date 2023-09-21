@@ -10,7 +10,7 @@
     "log": "wrangler tail"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20230419.x",
+    "@cloudflare/workers-types": "4.20230914.x",
     "remark-loader": "5.0.x",
     "ts-loader": "9.4.x",
     "webpack": "5.76.x",
