@@ -1,7 +1,6 @@
 {
-  "name": "portal",
+  "name": "flower",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "pack": "webpack --progress",
     "deploy": "wrangler deploy",
