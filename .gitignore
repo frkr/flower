@@ -1,6 +1,10 @@
 node_modules/
 dist/
-src/**/*.js
-src/**/*.ts
-!src/index.ts
+.wrangler/
+*.ts
+*.tsx
+*.js
+!block-loader.js
+!main.js
+!webpack.config.js
 

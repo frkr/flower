@@ -1,10 +1,11 @@
 # Teste
 
 ```ts
+
 export class Teste {
 
-	async index() {
-		return new Response('Hello Julio!', { status: 200 });
+	async index(request: Request, env: Env) {
+		return new Response('Hello Teste!', { status: 200 });
 	}
 
 }

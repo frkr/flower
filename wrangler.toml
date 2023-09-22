@@ -1,5 +1,5 @@
 name = "wa-tutorial"
-main = "dist/worker.js"
+main = "dist/src/index.ts"
 compatibility_date = "2023-09-14"
 workers_dev = true
 
@@ -11,12 +11,4 @@ command = "npx webpack --progress"
 # [[services]]
 # binding = "MY_SERVICE"
 # service = "/api/*"
-
-
-###################################################################
-### Alterar a partir daqui
-###################################################################
-
-[vars]
-DAVI="TESTE OIIII"
 

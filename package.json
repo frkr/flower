@@ -2,7 +2,6 @@
   "name": "portal",
   "version": "0.0.1",
   "private": true,
-  "main": "dist/worker.js",
   "scripts": {
     "pack": "webpack --progress",
     "deploy": "wrangler deploy",
@@ -10,11 +9,11 @@
     "log": "wrangler tail"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.x.x",
-    "remark-loader": "5.x.x",
-    "ts-loader": "9.x.x",
-    "webpack": "5.x.x",
-    "webpack-cli": "4.x.x",
+    "@cloudflare/workers-types": "4.20230419.x",
+    "file-loader": "6.2.x",
+    "remark-loader": "5.0.x",
+    "ts-loader": "9.4.x",
+    "webpack-cli": "4.10.x",
     "wrangler": "3.6.x"
   }
 }
