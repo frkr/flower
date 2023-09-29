@@ -1,4 +1,4 @@
-# WA - Tutorial
+# Flower
 
 ## Configuração Inicial:
 - Node 18
@@ -17,3 +17,6 @@ interface Env {
 }
 ```
 
+# Usando Flower:
+- [Boleto Omie](https://github.com/frkr/omie-boleto)
+  
