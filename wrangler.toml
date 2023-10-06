@@ -3,6 +3,8 @@ main = "dist/src/index.ts"
 compatibility_date = "2023-09-14"
 workers_dev = true
 
+account_id = "4f296275a5fa3d5c36343151790e96d3"
+
 [build]
 command = "npx webpack --progress"
 
@@ -11,4 +13,3 @@ command = "npx webpack --progress"
 # [[services]]
 # binding = "MY_SERVICE"
 # service = "/api/*"
-

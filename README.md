@@ -19,4 +19,3 @@ interface Env {
 
 # Usando Flower:
 - [Boleto Omie](https://github.com/frkr/omie-boleto)
-  

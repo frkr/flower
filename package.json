@@ -13,6 +13,6 @@
     "remark-loader": "5.0.x",
     "ts-loader": "9.4.x",
     "webpack-cli": "4.10.x",
-    "wrangler": "3.6.x"
+    "wrangler": "3.7.x"
   }
 }
